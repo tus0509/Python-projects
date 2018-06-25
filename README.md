@@ -4,3 +4,9 @@ Battleship.py: This is a player vs computer guessing game. There's a grid presen
 rps.py: Rock paper scissors game.
 
 Pallindrome.py: Checks if the string entered is a pallindrome ie. a string that reads the same backwards as forwards.
+
+encrypt.py: Accepts a string and a key to encrypt the user's message.
+
+file.py: Read/write/delete files.
+
+randompoetrygenerator.py: Generates poems and displays them.
